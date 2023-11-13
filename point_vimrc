@@ -1,0 +1,7 @@
+set wrap
+set linebreak
+set nolist "
+set textwidth=80
+set wrapmargin=0
+set formatoptions-=t
+autocmd FileType yaml setlocal ai ts=2 sw=2 et
